@@ -1,0 +1,4 @@
+Best agent so far (might fail occasionally at difficulty 5 due to missing
+  the first enemy with its shots, but it can actually pass difficulty 5)
+
+damage_taken weight was 13.75

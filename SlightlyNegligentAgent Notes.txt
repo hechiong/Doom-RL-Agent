@@ -1,0 +1,8 @@
+Usually kills 5 enemies but ignores first left enemy
+  (maybe because of lack of weighting for damage taken in reward function)
+
+Fails to kill enemies after difficulty 4 due to tough enemies
+  (though the agent was only trained up to partially difficulty 3)
+
+
+damage_taken weight was 10

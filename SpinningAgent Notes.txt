@@ -1,0 +1,2 @@
+Agent spins in circles due to high weight in damage_taken (regardless of +/- final reward).
+  (To terminate as soon as possible)

@@ -1,0 +1,4 @@
+Usually kills first 4 enemies and may kill the last 2 enemies
+  (might turn between last 2 enemies or turn before vest after killing last 2 enemies)
+
+damage_taken weight was 20
